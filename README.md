@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Evidence Template Project
 
 ## Using Codespaces
@@ -46,3 +47,6 @@ Check out the docs for [alternative install methods](https://docs.evidence.dev/g
 - [Github](https://github.com/evidence-dev/evidence)
 - [Slack Community](https://slack.evidence.dev/)
 - [Evidence Home Page](https://www.evidence.dev)
+=======
+# Evi-vipin
+>>>>>>> 09d93302d4cbbfee0903e91c1eead5a07a65518c
